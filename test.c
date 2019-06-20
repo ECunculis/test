@@ -9,4 +9,6 @@ int main(int argc, char *argv[]) {
         my_array[i] = i;
     }
     free(my_array);
+    // Comment
+    // new comment
 }
